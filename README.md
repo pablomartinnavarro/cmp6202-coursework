@@ -16,6 +16,7 @@ cmp6202-coursework/
 │   ├── 02_modelling.ipynb                 # Train/test split, default models & seen-data audit (Figure 4)
 │   └── 03_evaluation_and_tuning.ipynb     # 5-Fold CV, feature engineering, GridSearchCV & test evaluation (Figures 5–7)
 ├── report/
+│   ├── CMP6202.docx                       # Final individual technical report
 │   └── figures/                           # Exported high-resolution visualisations (PNG, 300 dpi)
 └── README.md
 ```
